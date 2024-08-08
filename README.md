@@ -1,0 +1,1 @@
+The SQL Swiggy Database project is designed to manage and analyze a simulated online food delivery service, similar to Swiggy. The database encompasses various tables representing key entities such as customers, restaurants, orders, and delivery personnel. The project demonstrates the use of advanced SQL techniques to manage, query, and analyze the data effectively
